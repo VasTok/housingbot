@@ -1,2 +1,2 @@
 # housingbot
-Telegram bot for Houssing Utilities
+Telegram bot for Housing Utilities
